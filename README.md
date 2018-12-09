@@ -2,4 +2,4 @@
 VanillaJs based filterableList - web browser
 ---
 
-![BookMarker](https://github.com/r4nd3l/bookMarker/blob/master/img/filterable_list.png)
+![FilterableList](https://github.com/r4nd3l/Filterable-List/blob/master/img/filterable_list.png)
